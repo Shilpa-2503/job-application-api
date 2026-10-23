@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-jose[cryptography]
+pwdlib[argon2]
+email-validator
+pytest
+httpx
